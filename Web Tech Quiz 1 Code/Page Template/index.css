@@ -1,0 +1,21 @@
+.tasweer {
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 95%;
+}
+
+.main {
+    text-decoration: aliceblue;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+}
+.backcolor {
+    background-color: rgb(199, 194, 194);
+    color: black;
+}
